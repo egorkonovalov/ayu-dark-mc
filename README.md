@@ -28,7 +28,7 @@ This is a color theme for [Midnight Commander (mc)](https://midnight-commander.o
 
         Save your settings
 
-5. Or set it directly in your config file:
+5. Or set it directly in your config file `~/.config/mc/ini`. There, in `[Midnight Commander]` section directive:
    ```bash
-   echo "skin=ayu-dark" >> ~/.config/mc/ini
+   skin=ayu-dark
    ```
